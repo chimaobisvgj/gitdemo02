@@ -5,7 +5,7 @@ public class Main {
         System.out.println(a() + " " + b());
     }
 
-    public static String a() {return "salam";}
+    public static String a() {return "hello";}
 
-    public static String b() {return "world";}
+    public static String b() {return "nalam";}
 }
